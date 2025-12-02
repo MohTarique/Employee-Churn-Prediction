@@ -7,7 +7,7 @@ A Flask + HTML web application allows users to input employee details and predic
 The entire app is containerized using Docker and deployed as a live web service on Render.com.
 
 ## Dashboard
-![alt image](https://github.com/MohTarique/Banking_Loan_Analysis/blob/main/Screenshot%20(62).png)
+![alt image](https://github.com/MohTarique/Employee-Churn-Prediction/blob/master/images/Dashboard%201%20(3).png)
 ## Points
 1. Everyone with seven projects left the company.
 2. The scatterplot above shows that there was a sizeable group of employees who worked ~240–315 hours per month,
@@ -18,7 +18,7 @@ The entire app is containerized using Docker and deployed as a live web service 
 
 
 ## Model Performance Summary
-![alt image](https://github.com/MohTarique/Banking_Loan_Analysis/blob/main/Screenshot%20(62).png)
+![alt image](https://github.com/MohTarique/Employee-Churn-Prediction/blob/master/images/Screenshot%20(137).png)
 
 Multiple machine learning models were trained and evaluated using accuracy, precision, recall, F1-score, and ROC-AUC.
 
@@ -31,6 +31,20 @@ Random Forest — 0.9685
 SVM — 0.9641
 
 The project uses ROC-AUC as the primary metric, and XGBoost was selected as the final model for deployment due to its strong overall performance across all metrics
+
+📌 Tech Stack
+
+Python, HTML
+
+Pandas, NumPy, Matplotlib, Seaborn
+
+Scikit-learn, XGBoost, SVM, KNN
+
+Flask
+
+Docker
+
+VS Code, Juyter Notebook, Render.com
 
 ## 🧠 Project Workflow
 
