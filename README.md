@@ -1,12 +1,13 @@
 # Employee Churn Prediction    [LIVE WEB APPLICATION](https://employee-churn-prediction-34nz.onrender.com)
 
 
-🚀 Project summary
+## 🚀 Project summary
+
 This project is an end-to-end Employee Churn Prediction system built using machine learning. It covers data cleaning, exploratory data analysis, feature engineering, model development, evaluation, and deployment.
 A Flask + HTML web application allows users to input employee details and predict churn probability.
 The entire app is containerized using Docker and deployed as a live web service on Render.com.
 
-## Dashboard [Tableau](https://public.tableau.com/app/profile/moh.tarique.siddiqui/viz/employee_churn/Dashboard13)
+### Dashboard [Tableau](https://public.tableau.com/app/profile/moh.tarique.siddiqui/viz/employee_churn/Dashboard13)
 ![alt image](https://github.com/MohTarique/Employee-Churn-Prediction/blob/master/images/Dashboard%201%20(3).png)
 ## Points
 1. Everyone with seven projects left the company.
