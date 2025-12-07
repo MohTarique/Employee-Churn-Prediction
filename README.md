@@ -136,3 +136,5 @@ docker run -p 5000:5000 churn-app
 3.Render automatically built and deployed the container
 
 4.Web app is publicly available
+
+![alt image](https://github.com/MohTarique/Employee-Churn-Prediction/blob/5b044a898dfc13ad568d3adb4df06dcaf94f9d16/images/Screenshot%20(139).png)
